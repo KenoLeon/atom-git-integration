@@ -15,6 +15,6 @@ https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone
 2. rm -rf folder
 
 
-#CLONE Private:
+# CLONE Private:
 
 Easiest way for me was to open on desktop, then on Atom open the local repo, not as a folder.
