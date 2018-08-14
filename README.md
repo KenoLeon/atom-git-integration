@@ -18,3 +18,12 @@ https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone
 # CLONE Private:
 
 Easiest way for me was to open on desktop, then on Atom open the local repo, not as a folder.
+
+
+# CLONE repo:
+In Folder
+git clone https://github.com/KenoLeon/atom-git-integration.git
+
+#Fetch:
+
+$ git fetch --all
