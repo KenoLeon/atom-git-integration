@@ -27,3 +27,7 @@ git clone https://github.com/KenoLeon/atom-git-integration.git
 #Fetch:
 
 $ git fetch --all
+
+#Branch:
+
+$ git checkout -b branch1
